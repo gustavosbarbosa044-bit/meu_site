@@ -1,2 +1,2 @@
 acesse aqui
-https://github.com/gustavosbarbosa044-bit/meu_site.git
+https://gustavosbarbosa044-bit.github.io/meu_site/
